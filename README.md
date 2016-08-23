@@ -1,4 +1,6 @@
-# reedom
+# Freedom Quiz
+
+How much do you actually believe in Freedom
 
 > A Vue.js project
 
